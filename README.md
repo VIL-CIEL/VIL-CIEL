@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a game inspirated by Undertale for a school project
-- 🌱 I’m currently learning C++
+- 🔭 Currently working on a mobile application for a school project
+- 🌱 Currently learning C++
 
 <!--
 **VIL-CIEL/VIL-CIEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
